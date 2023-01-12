@@ -74,7 +74,53 @@ In order to create maps showing areas with a certain chance of snow occurrence, 
 
 ## DATA VISUALIZATION
 
+**Snow occurrence during Christmas Day in Poland (58 years period)**
 
+<img src="/img/snow_occur_ratio_cover.png" width="450" height="">
+
+---
+
+**Snow occurrence in 1950s**
+
+<img src="/img/snow_occur_50s.png" width="450" height="">
+
+---
+
+**Snow occurrence in 1960s**
+
+<img src="/img/snow_occur_60s.png" width="450" height="">
+
+---
+
+**Snow occurrence in 1970s**
+
+<img src="/img/snow_occur_70s.png" width="450" height="">
+
+---
+
+**Snow occurrence in 1980s**
+
+<img src="/img/snow_occur_80s.png" width="450" height="">
+
+---
+
+**Snow occurrence in 1990s**
+
+<img src="/img/snow_occur_90s.png" width="450" height="">
+
+---
+
+**Snow occurrence in 2000s**
+
+<img src="/img/snow_occur_2000s.png" width="450" height="">
+
+---
+
+**Snow occurrence in 2010s**
+
+<img src="/img/snow_occur_2010s.png" width="450" height="">
+
+---
 
 <br>
 
