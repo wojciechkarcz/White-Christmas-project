@@ -52,3 +52,41 @@ Data cleaning:
 <br>
 
 ## DATA ANALYSIS
+
+The main question that was sought for an answer during the analysis is to determine what is the chance of snow in Poland on Christmas.
+
+By the way, we will try to answer the following questions:
+
+- What was the average snow cover and temperature on this day over 70 years?
+- How many weather stations do we have data for each year? Where exactly are they located?
+- Are there weather stations that recorded measurements for the entire period of 71 years?
+- What is the snow occurence ratio for each station?
+- Where are the places with the highest/least chance of snow?
+- What was the situation with snow on Christmas in particular decades?
+  
+  
+Data interpolation
+
+In order to create maps showing areas with a certain chance of snow occurrence, it is necessary to interpolate input data from several dozen weather stations scattered throughout Poland. For this purpose, the Ordinary Krigging algorithm from the pykrige library was used. After data interpolation, the resulting meshgrid can be displayed on a map using the Basemap library.
+
+<br>
+
+## DATA VISUALIZATION
+
+
+
+<br>
+
+# RESULTS
+
+- The average occurrence of snow on Christmas Day (based on 58 years of data) in most areas of Poland ranges from 0.2-0.4 (which means 2-4 snowy Christmas per 10 years)
+- It is clear that the western part of the country has less chance of snow on Christmas. In some places, only 1 in 10 Christmas Days fall with snow.
+- The greatest chance of snow (often 0.8-1) is in the south in the mountains, which is pretty obvious. We can also expect snow more often on Christmas in the north-east and east of Poland (with an average chance of 0.4-0.5).
+- Over the course of 70 years of measurements, more and less snowy periods can be observed. The snowiest decades were in the 1950s and 1960s, and the least snow on Christmas was in the 1970s, 1980s and 2010s.
+- Every few years (5-10) exceptionally snowy Christmas can be observed with an average snow cover thickness of more than 10 cm. This has happened 9 times in 70 years of measurements. Typically, the average snow cover is only several cm.
+
+<br>
+
+# CONCLUSION
+
+Based on historical data from the last 70 years, it can be concluded that the so-called a white Christmas in Poland is less than likely. In addition, a truly white Christmas, when there was an average of over 10 cm of snow, occurred only 9 times. Therefore, we should not expect snow on December 25th. Also, the occurrence of snow does not depend on time, which means that once there were completely snow-free Christmas, e.g. in the late 1950s or in the 1970s.
