@@ -1,5 +1,7 @@
 # What is the chance for white Christmas in Poland?
   
+<img src="/img/white_christmas_cover.png" width="450" height="">
+
 ## OBJECTIVE
 
 The aim of this project is to answer a simple question based on meteorological data - what is the chance of snow during Christmas in Poland?
