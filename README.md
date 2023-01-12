@@ -63,9 +63,10 @@ By the way, we will try to answer the following questions:
 - What is the snow occurence ratio for each station?
 - Where are the places with the highest/least chance of snow?
 - What was the situation with snow on Christmas in particular decades?
+
+<br>
   
-  
-Data interpolation
+<u>Data interpolation</u>
 
 In order to create maps showing areas with a certain chance of snow occurrence, it is necessary to interpolate input data from several dozen weather stations scattered throughout Poland. For this purpose, the Ordinary Krigging algorithm from the pykrige library was used. After data interpolation, the resulting meshgrid can be displayed on a map using the Basemap library.
 
