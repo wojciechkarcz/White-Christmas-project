@@ -10,9 +10,9 @@ The aim of this project is to answer a simple question based on meteorological d
 
 ## JUPYTER NOTEBOOKS
 
-- Data collection and cleaning
-- Data analysis
-- Data interpolation and visualization 
+- [Data collection and cleaning](https://github.com/wojciechkarcz/White-Christmas-project/blob/main/1_white_christmas_data_cleaning.ipynb)
+- [Data analysis](https://github.com/wojciechkarcz/White-Christmas-project/blob/main/2_white_christmas_data_analysis.ipynb)
+- [Data interpolation and visualization](https://github.com/wojciechkarcz/White-Christmas-project/blob/main/3_white_christmas_data_interpolation_and_visualization.ipynb) 
 
 <br>
   
