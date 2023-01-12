@@ -74,6 +74,31 @@ In order to create maps showing areas with a certain chance of snow occurrence, 
 
 ## DATA VISUALIZATION
 
+**Snow cover height distribution**
+
+<img src="/img/snow_cover_distribution.png" width="450" height="">
+
+---
+
+**Mean snow cover height in each year**
+
+<img src="/img/mean_snow_cover_height_in_each_year.png" width="450" height="">
+
+---
+
+**Number of eather stations recording data each year**
+
+<img src="/img/number_of_weather_stations_by_year.png" width="450" height="">
+
+---
+
+**Location of weather stations**
+
+<img src="/img/location_of_weather_stations.png" width="450" height="">
+
+---
+
+
 **Snow occurrence during Christmas Day in Poland (58 years period)**
 
 <img src="/img/snow_occur_ratio_cover.png" width="450" height="">
