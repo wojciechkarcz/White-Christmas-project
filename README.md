@@ -28,7 +28,7 @@ There is a common belief in Poland that we should expect snow during Christmas a
 | Data Preprocessing   | pandas, tabula |
 | Data Analysis   | pandas, numpy, pykrige |
 | Data Visualization   | matplotlib, Basemap |
-| Environment / Platforms   | python 3.8+, Jupyter Notebook|
+| Environment / Platforms   | Python 3.8+, Jupyter Notebook|
 
 <br>
 
